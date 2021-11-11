@@ -1,3 +1,6 @@
 Lopez Podesta Macarena
 Pipliza Nadia
 Paredes Kaleniuk Melanie
+a) Queda con todos los archivos de las otras ramas (datos.txt, beta.txt, CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt)
+b) Si, pudo ver todos los cambios
+c) Para poder hacer el merge use:\n 1-git checkout master \n 2-git merge origin/paredesk \n 3-git add .\n  4-git commmit -mcommit \n 5-git push.
