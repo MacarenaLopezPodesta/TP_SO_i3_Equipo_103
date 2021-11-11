@@ -4,3 +4,6 @@ Paredes Kaleniuk Melanie
 a) Queda con todos los archivos de las otras ramas (datos.txt, beta.txt, CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt)
 b) Si, pudo ver todos los cambios
 c) Para poder hacer el merge use:\n 1-git checkout master \n 2-git merge origin/paredesk \n 3-git add .\n  4-git commmit -mcommit \n 5-git push.
+ d) No, las ramas creadas por Beta Y Gamma no quedan con datos actualizados 
+e) no tuvimos problemas al hacer el merge
+f) Los comnaod utilizados para cumplir con el punto 7 fueron: git checkout lopezPodesta, ipconfig >> beta.txt, echo "Melanie Paredes Kaleniuk 12:29:54" >> beta.txt, git status, git add .,git commit -m"Gamma: agregue mis datos",git push
